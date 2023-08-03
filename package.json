@@ -1,0 +1,22 @@
+{
+	"name": "@react-native-ui-components/alert",
+	"version": "1.0.0",
+	"main": "src/index.js",
+	"types": "src/index.d.ts",
+	"repository": "git@github.com:react-native-ui-components/alert.git",
+	"author": "Morgan Barrett <morganbarrett@icloud.com>",
+	"license": "MIT",
+	"prettier": "@react-native-ui-components/prettier-config",
+	"eslintConfig": {
+		"extends": "@react-native-ui-components/eslint-config"
+	},
+	"peerDependencies": {
+		"react": "*",
+		"react-native": "*"
+	},
+	"devDependencies": {
+		"@react-native-ui-components/eslint-config": "^1.0.2",
+		"@react-native-ui-components/prettier-config": "^1.0.0",
+		"@types/react": "^18.2.18"
+	}
+}
