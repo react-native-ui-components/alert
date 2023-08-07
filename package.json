@@ -23,8 +23,6 @@
 		"@react-native-ui-components/prettier-config": "^1.0.0",
 		"@types/react": "^18.2.18",
 		"eslint": "^8.46.0",
-		"eslint-config-prettier": "^9.0.0",
-		"eslint-plugin-react": "^7.33.1",
 		"prettier": "^3.0.1"
 	}
 }
