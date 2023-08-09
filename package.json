@@ -57,7 +57,7 @@
 		"@react-native-ui-components/eslint-config": "^1.0.4",
 		"@react-native-ui-components/prettier-config": "^1.0.0",
 		"@react-native-ui-components/typescript-config": "^1.0.0",
-		"@release-it/conventional-changelog": "^6.0.0",
+		"@release-it/conventional-changelog": "^7.0.0",
 		"@types/jest": "^29.5.3",
 		"@types/react": "~18.2.19",
 		"@types/react-native": "0.72.2",
@@ -70,7 +70,7 @@
 		"react": "18.2.0",
 		"react-native": "0.72.3",
 		"react-native-builder-bob": "^0.21.3",
-		"release-it": "^15.0.0",
+		"release-it": "^16.1.4",
 		"typescript": "^5.0.2"
 	},
 	"resolutions": {
